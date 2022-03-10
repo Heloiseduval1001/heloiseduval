@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');h1 {
+  color: #FF66C4;
+}
+
+h2 {
+  color: #FF66C4;
+}
+
+body {
+font-family: 'Dancing Script', cursive;  background-color: #FFD6EF;
+}
+
+h1, h2 {
+font-family: 'Dancing Script', cursive;}
+
+div {
+  background-color: white;
+  text-align: center;
+  padding: 24px;
+  width: 60%;
+  margin: 16px auto;
+  border-radius: 6px;
+  box-shadow: 1px 1px 5px 2px #FF66C4;
+}
+
+#avatar {
+  width: 175px;
+  height: 175px;
+  object-fit: cover;
+  border-radius:40%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-blue {
+  color: white;
+  background-color: blue;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bolder;
+  border: 1px solid blue;
+  transition:  1s;
+}
+
+.btn-blue:hover {
+  background-color: white;
+  color: blue;
+  transition: 1s;
+}
+
+.list-inline {
+  padding: 0;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline;
+  margin: 0 16px;
+  font-size: 40px;
+}
+
+.fa-brands {
+  color:  #FF66C4;
+}
+
+.fa-brands:hover {
+  color:  #FF66C4;
+}
+.fab {
+  color:  #FF66C4;
+}
+
+.fab:hover {
+  color:  #FF66C4;
+}
